@@ -1,0 +1,6 @@
+C:\Users\XarTeSV2\source\repos\RCInjector\RCInjector\obj\Debug\RCInjector.csproj.AssemblyReference.cache
+C:\Users\XarTeSV2\source\repos\RCInjector\RCInjector\obj\Debug\RCInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\XarTeSV2\source\repos\RCInjector\RCInjector\obj\Debug\RCInjector.Form1.resources
+C:\Users\XarTeSV2\source\repos\RCInjector\RCInjector\obj\Debug\RCInjector.Properties.Resources.resources
+C:\Users\XarTeSV2\source\repos\RCInjector\RCInjector\obj\Debug\RCInjector.csproj.GenerateResource.cache
+C:\Users\XarTeSV2\source\repos\RCInjector\RCInjector\obj\Debug\RCInjector.csproj.CoreCompileInputs.cache
